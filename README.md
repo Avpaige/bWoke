@@ -1,6 +1,7 @@
 
 # bWoke
 To allow people to find causes close to them AND to celebrities they like as a way to more easily connect people to social activism
+View the project here: https://avpaige.github.io/bWoke/
 
 ## Purpose:
 To utilize Today’s influencer and celebrity culture to drive and connect charities with the masses.
